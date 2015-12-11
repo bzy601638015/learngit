@@ -1,1 +1,4 @@
 hello world
+System.out.print("");
+print("");
+
